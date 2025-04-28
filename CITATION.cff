@@ -1,66 +1,26 @@
-cff-version: 1.2.0
+title: test
 authors:
-  - family-names: Marroquin
-    given-names: Christopher
-    orcid: https://orcid.org/0000-0002-3399-1731
-  - family-names: Clark
-    given-names: Jacob
-    orcid: https://orcid.org/0000-0001-8134-6481
-  - family-names: Portillo
-    given-names: Dorian
-    orcid: https://orcid.org/0000-0002-4306-4464
-  - family-names: Soundarajan
-    given-names: Sanjay
-    orcid: https://orcid.org/0000-0003-2829-8032
-  - family-names: Ngo
-    given-names: Tram
-  - family-names: Patel
-    given-names: Bhavesh
-    orcid: https://orcid.org/0000-0002-0307-262X
-contact:
-  - family-names: Patel
-    given-names: Bhavesh
-    orcid: https://orcid.org/0000-0002-0307-262X
+  - given-names: Christopher
+    family-names: Marroquin
+  - given-names: Jacob
+    family-names: Clark
+  - given-names: Dorian
+    family-names: Portillo
+  - given-names: Sanjay
+    family-names: Soundarajan
+  - given-names: Tram
+    family-names: Ngo
+  - given-names: Bhavesh
+    family-names: Patel
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
 doi: 10.5281/zenodo.118732
-message: >-
-  If you use this software, please cite our article in the Journal of Open
-  Source Software.
-preferred-citation:
-  authors:
-    - family-names: Marroquin
-      given-names: Christopher
-      orcid: https://orcid.org/0000-0002-3399-1731
-    - family-names: Clark
-      given-names: Jacob
-      orcid: https://orcid.org/0000-0001-8134-6481
-    - family-names: Portillo
-      given-names: Dorian
-      orcid: https://orcid.org/0000-0002-4306-4464
-    - family-names: Soundarajan
-      given-names: Sanjay
-      orcid: https://orcid.org/0000-0003-2829-8032
-    - family-names: Ngo
-      given-names: Tram
-    - family-names: Patel
-      given-names: Bhavesh
-      orcid: https://orcid.org/0000-0002-0307-262X
-  date-published: 2024-08-06T00:00:00.000Z
-  doi: 10.21105/joss.06140
-  issn: 2475-9066
-  issue: 100
-  journal: Journal of Open Source Software
-  publisher:
-    name: Open Journals
-  start: 6140
-  title: >-
-    SODA: Software to Support the Curation and Sharing of FAIR Autonomic Nervous
-    System Data
-  type: article
-  url: https://joss.theoj.org/papers/10.21105/joss.06140
-  volume: 9
-title: >-
-  SODA: Software to Support the Curation and Sharing of FAIR Autonomic Nervous
-  System Data
-date-released: '2024-10-17'
-version: v5.0.6
+abstract: test ddescription 2
+keywords:
+  - COVID-19
+  - Machine Learning
 license: MIT
+repository-code: https://github.com/megasanjay/test1
+date-released: 2024-10-17
+version: v5.0.6
